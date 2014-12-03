@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'NewsGothBTRoman';
+    src: url('news_gothic_bt.eot');
+    src: url('news_gothic_bt.eot') format('embedded-opentype'),
+         url('news_gothic_bt.woff2') format('woff2'),
+         url('news_gothic_bt.woff') format('woff'),
+         url('news_gothic_bt.ttf') format('truetype'),
+         url('news_gothic_bt.svg#NewsGothBTRoman') format('svg');
+}
+
+@font-face {
+    font-family: 'NewsGothBTBold';
+    src: url('6922.eot');
+    src: url('6922.eot') format('embedded-opentype'),
+         url('6922.woff2') format('woff2'),
+         url('6922.woff') format('woff'),
+         url('6922.ttf') format('truetype'),
+         url('6922.svg#NewsGothBTBold') format('svg');
+}
